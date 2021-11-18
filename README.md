@@ -72,11 +72,12 @@
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
 
-## Connect with Me
-
-
-
-
-------
+<br>
+<br>
+<br>
+	
 [Ahmedn-Osman](https://github.com/ahmedn-osman)
-Last Edited on - 16/11/2021
+
+<p align="left">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ahmedn-osman/ahmedn-osman?label=last%20edited%20on&style=flat-square">
+</p>
