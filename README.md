@@ -7,7 +7,7 @@
 <h3 align="center">Oracle Applications Consultant | Technical Content Writer | Data Analysis Enthusiast</h3>
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-n-osman"><img alt="Linkedin" title="Ahmed Osman Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-n-osman"><img alt="Linkedin" title="Ahmed Osman Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ahmedn-osman"><img alt="Github" title="Ahmed Osman Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/ahmedn.osman0/"><img alt="Facebook" title="Ahmed Osman FB" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/ahmedn.osman"><img alt="Instagram" title="Ahmed Osman Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
