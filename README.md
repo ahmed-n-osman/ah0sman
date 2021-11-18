@@ -75,8 +75,28 @@
 <br>
 <br>
 <br>
+
+<a href="https://github.com/ahmedn-osman/ahmedn-osman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedn-osman&repo=ahmedn-osman" />
+</a>
+<a href="https://github.com/ahmedn-osman/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedn-osman&repo=ahmedn-osman" />
+</a>
+
+<p align="center"> 	
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedn-osman&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedn-osman&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 	
-[Ahmedn-Osman](https://github.com/ahmedn-osman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedn-osman&theme=flag-india&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+	
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)	
+	
+
+Credits: [Ahmedn-Osman](https://github.com/ahmedn-osman)
 
 <p align="left">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ahmedn-osman/ahmedn-osman?label=last%20edited%20on&style=flat-square">
