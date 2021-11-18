@@ -7,16 +7,16 @@
 <h3 align="center">Oracle Applications Consultant | Technical Content Writer | Data Analysis Enthusiast</h3>
 <br>
 <p align="center">
-  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/bad_boy_official2"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="www.linkedin.com/in/ahmed-n-osman"><img alt="Linkedin" title="Ahmed Osman Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedn-osman"><img alt="Github" title="Ahmed Osman Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/ahmedn.osman0/"><img alt="Facebook" title="Ahmed Osman FB" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/ahmedn.osman"><img alt="Instagram" title="Ahmed Osman Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:yadavjay374@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/jaydeep__Yadav_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-    <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=white"></a>
+  <a href="mailto:ahmedn.osman1@gmail.com"><img alt="Gmail" title="Ahmed Osman Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/ahmednosman"><img alt="Telegram" title="Ahmed Osman Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
+<a href="http://twitter.com/ahmadosman_"><img alt="Twitter" title="Ahmed Osman Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+    <a href="https://www.snapchat.com/add/bega10"><img alt="Ahmed Osman Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=white"></a>
 </p>
 
 ## Programming Languages
